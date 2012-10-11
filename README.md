@@ -22,5 +22,5 @@ For more details on this algorithm, please see [Udacity's CS373 course](http://w
 
 ### Screenshot:
 
-
+![Screenshot 1](https://dl.dropbox.com/u/1693311/udacity/pathfinder1.png)
 
